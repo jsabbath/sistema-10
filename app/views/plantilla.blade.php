@@ -22,7 +22,7 @@
         @yield('contenido')
 
         <div class="footer">
-            <p>&copy; Codehero 2014</p>
+            <p>&copy; Codehero 2014. Todos los derechos reservados</p>
         </div>
     </div>
 
